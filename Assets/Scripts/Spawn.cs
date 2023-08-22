@@ -13,10 +13,12 @@ public class Spawner : MonoBehaviour
     {
         InvokeRepeating(nameof(Spawn), spawn_rate, spawn_rate);
     }
+    
     private void OnDisable() 
     {
         CancelInvoke(nameof(Spawn)); //Stops calling spawn function
     }
+    
     private void Spawn()//This function duplicates the pipes repeatedly and place them on screen, with randomly gap position
     {
         GameObject pipeDuplication = Instantiate(prefab, transform.position, Quaternion.identity);
