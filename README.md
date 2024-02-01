@@ -15,7 +15,7 @@ This is a Flappy Bird game, developed using Unity and C#. It's a simple yet chal
     git clone https://github.com/liork98/FlappyBird.git
     ```
 2. Open the project in Unity.
-3. Load the `Main` scene located in the `Assets/Scenes` folder.
+3. Load the `MainMenu` scene located in the `Assets/Scenes` folder.
 
 ## Playing the Game
 
