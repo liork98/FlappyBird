@@ -1,6 +1,6 @@
 # Flappy Bird Game
 
-This is a Flappy Bird gmae, developed using Unity and C#. It's a simple yet challenging game where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
+This is a Flappy Bird game, developed using Unity and C#. It's a simple yet challenging game where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
 
 ## Getting Started
 
